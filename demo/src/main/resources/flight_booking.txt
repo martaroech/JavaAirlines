@@ -1,0 +1,9 @@
+BOOKING REPORT
+
+User data: Yacine Niang
+Flight number: IT19SV
+Arrival: Svizzera
+Departure: Italia
+Departure date: 2025-04-24
+Seats: [D2;D1;]
+Price: € 745,50

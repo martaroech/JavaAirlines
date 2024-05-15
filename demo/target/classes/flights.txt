@@ -1,0 +1,271 @@
+id_tratta;id_volo;partenza;nazione_partenza;destinazione;nazione_destinazione;data;ora;compagnia_aerea;posti_tot;posti_disponibili;posti_occupati;prezzo_biglietto
+1;1;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-04-23;10:00;Lufthansa;120;59;61;241.00
+1;2;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-04-23;14:00;Lufthansa;120;64;56;294.00
+1;3;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-04-23;18:00;Lufthansa;120;55;65;299.00
+2;1;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-04-24;11:00;Air France;120;58;62;285.00
+2;2;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-04-24;12:00;Air France;120;61;59;214.00
+2;3;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-04-24;16:00;Air France;120;62;58;218.00
+3;1;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-04-25;12:00;Iberia;120;65;55;216.00
+3;2;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-04-25;13:00;Iberia;120;61;59;231.00
+3;3;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-04-25;17:00;Iberia;120;59;61;234.00
+4;1;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-04-26;13:00;British Airways;120;63;57;270.00
+4;2;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-04-26;14:00;British Airways;120;58;62;249.00
+4;3;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-04-26;18:00;British Airways;120;59;61;275.00
+5;1;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-04-27;14:00;KLM;120;54;66;277.00
+5;2;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-04-27;15:00;KLM;120;55;65;231.00
+5;3;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-04-27;19:00;KLM;120;57;63;269.00
+6;1;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Zurigo (ZRH);Svizzera;2025-04-28;15:00;Swiss International Air Lines;120;62;58;247.00
+6;2;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Zurigo (ZRH);Svizzera;2025-04-28;16:00;Swiss International Air Lines;120;72;48;213.00
+6;3;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Zurigo (ZRH);Svizzera;2025-04-28;20:00;Swiss International Air Lines;120;61;59;290.00
+7;1;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Bruxelles (BRU);Belgio;2025-04-29;16:00;Brussels Airlines;120;58;62;247.00
+7;2;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Bruxelles (BRU);Belgio;2025-04-29;17:00;Brussels Airlines;120;55;65;259.00
+7;3;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Bruxelles (BRU);Belgio;2025-04-29;21:00;Brussels Airlines;120;64;56;281.00
+8;1;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-04-30;17:00;SAS Scandinavian Airlines;120;57;63;278.00
+8;2;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-04-30;18:00;SAS Scandinavian Airlines;120;68;52;297.00
+8;3;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-04-30;22:00;SAS Scandinavian Airlines;120;59;61;240.00
+9;1;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Vienna (VIE);Austria;2025-05-01;18:00;Austrian Airlines;120;58;62;293.00
+9;2;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Vienna (VIE);Austria;2025-05-01;19:00;Austrian Airlines;120;53;67;265.00
+9;3;Aeroporto di Roma-Fiumicino (FCO);Italia;Aeroporto di Vienna (VIE);Austria;2025-05-01;23:00;Austrian Airlines;120;64;56;213.00
+10;1;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-05-02;10:30;Lufthansa;120;54;66;211.00
+10;2;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-05-02;14:30;Lufthansa;120;68;52;289.00
+10;3;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-05-02;18:30;Lufthansa;120;52;68;214.00
+11;1;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-05-03;11:30;Air France;120;48;72;254.00
+11;2;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-05-03;12:30;Air France;120;57;63;250.00
+11;3;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-05-03;16:30;Air France;120;59;61;298.00
+12;1;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-05-04;12:30;Iberia;120;65;55;206.00
+12;2;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-05-04;13:30;Iberia;120;60;60;274.00
+12;3;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-05-04;17:30;Iberia;120;66;54;265.00
+13;1;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-05-05;13:30;British Airways;120;57;63;205.00
+13;2;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-05-05;14:30;British Airways;120;68;52;245.00
+13;3;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-05-05;18:30;British Airways;120;61;59;278.00
+14;1;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-05-06;14:30;KLM;120;52;68;277.00
+14;2;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-05-06;15:30;KLM;120;58;62;201.00
+14;3;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-05-06;19:30;KLM;120;63;57;283.00
+15;1;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Zurigo (ZRH);Svizzera;2025-05-07;15:30;Swiss International Air Lines;120;72;48;287.00
+15;2;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Zurigo (ZRH);Svizzera;2025-05-07;16:30;Swiss International Air Lines;120;54;66;250.00
+15;3;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Zurigo (ZRH);Svizzera;2025-05-07;20:30;Swiss International Air Lines;120;61;59;249.00
+16;1;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Bruxelles (BRU);Belgio;2025-05-08;16:30;Brussels Airlines;120;59;61;283.00
+16;2;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Bruxelles (BRU);Belgio;2025-05-08;17:30;Brussels Airlines;120;68;52;280.00
+16;3;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Bruxelles (BRU);Belgio;2025-05-08;21:30;Brussels Airlines;120;56;64;228.00
+17;1;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-05-09;17:30;SAS Scandinavian Airlines;120;66;54;239.00
+17;2;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-05-09;18:30;SAS Scandinavian Airlines;120;61;59;214.00
+17;3;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-05-09;22:30;SAS Scandinavian Airlines;120;74;46;215.00
+18;1;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Vienna (VIE);Austria;2025-05-10;18:30;Austrian Airlines;120;68;52;277.00
+18;2;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Vienna (VIE);Austria;2025-05-10;19:30;Austrian Airlines;120;57;63;291.00
+18;3;Aeroporto di Francoforte sul Meno (FRA);Germania;Aeroporto di Vienna (VIE);Austria;2025-05-10;23:30;Austrian Airlines;120;58;62;229.00
+19;1;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-05-11;10:45;Air France;120;61;59;236.00
+19;2;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-05-11;14:45;Air France;120;59;61;235.00
+19;3;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-05-11;18:45;Air France;120;51;69;290.00
+20;1;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-05-12;11:45;Air France;120;50;70;230.00
+20;2;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-05-12;13:45;Air France;120;51;69;237.00
+20;3;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-05-12;17:45;Air France;120;71;49;298.00
+21;1;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-05-13;12:45;Iberia;120;63;57;234.00
+21;2;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-05-13;14:45;Iberia;120;62;58;213.00
+21;3;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-05-13;18:45;Iberia;120;53;67;274.00
+22;1;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-05-14;13:45;British Airways;120;60;60;250.00
+22;2;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-05-14;15:45;British Airways;120;68;52;203.00
+22;3;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-05-14;19:45;British Airways;120;64;56;232.00
+23;1;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-05-15;14:45;KLM;120;66;54;214.00
+23;2;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-05-15;16:45;KLM;120;57;63;291.00
+23;3;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-05-15;20:45;KLM;120;68;52;248.00
+24;1;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Zurigo (ZRH);Svizzera;2025-05-16;15:45;Swiss International Air Lines;120;61;59;290.00
+24;2;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Zurigo (ZRH);Svizzera;2025-05-16;17:45;Swiss International Air Lines;120;69;51;284.00
+24;3;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Zurigo (ZRH);Svizzera;2025-05-16;21:45;Swiss International Air Lines;120;65;55;291.00
+25;1;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Bruxelles (BRU);Belgio;2025-05-17;16:45;Brussels Airlines;120;63;57;224.00
+25;2;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Bruxelles (BRU);Belgio;2025-05-17;18:45;Brussels Airlines;120;62;58;260.00
+25;3;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Bruxelles (BRU);Belgio;2025-05-17;22:45;Brussels Airlines;120;56;64;295.00
+26;1;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-05-18;17:45;SAS Scandinavian Airlines;120;53;67;298.00
+26;2;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-05-18;19:45;SAS Scandinavian Airlines;120;59;61;266.00
+26;3;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-05-18;23:45;SAS Scandinavian Airlines;120;55;65;243.00
+27;1;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Vienna (VIE);Austria;2025-05-19;18:45;Austrian Airlines;120;67;53;287.00
+27;2;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Vienna (VIE);Austria;2025-05-19;20:45;Austrian Airlines;120;63;57;226.00
+27;3;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;Aeroporto di Vienna (VIE);Austria;2025-05-19;00:45;Austrian Airlines;120;52;68;201.00
+28;1;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-05-20;11:00;Iberia;120;54;66;234.00
+28;2;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-05-20;15:00;Iberia;120;66;54;233.00
+28;3;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-05-20;19:00;Iberia;120;55;65;210.00
+29;1;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-05-21;12:00;Iberia;120;63;57;204.00
+29;2;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-05-21;13:00;Iberia;120;64;56;293.00
+29;3;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-05-21;17:00;Iberia;120;56;64;280.00
+30;1;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-05-22;13:00;Iberia;120;64;56;238.00
+30;2;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-05-22;14:00;Iberia;120;61;59;295.00
+30;3;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-05-22;18:00;Iberia;120;66;54;220.00
+31;1;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-05-23;14:00;British Airways;120;56;64;292.00
+31;2;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-05-23;15:00;British Airways;120;67;53;249.00
+31;3;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-05-23;19:00;British Airways;120;73;47;260.00
+32;1;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-05-24;15:00;KLM;120;63;57;225.00
+32;2;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-05-24;16:00;KLM;120;61;59;222.00
+32;3;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-05-24;20:00;KLM;120;47;73;258.00
+33;1;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Zurigo (ZRH);Svizzera;2025-05-25;16:00;Swiss International Air Lines;120;51;69;254.00
+33;2;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Zurigo (ZRH);Svizzera;2025-05-25;17:00;Swiss International Air Lines;120;59;61;208.00
+33;3;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Zurigo (ZRH);Svizzera;2025-05-25;21:00;Swiss International Air Lines;120;47;73;270.00
+34;1;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Bruxelles (BRU);Belgio;2025-05-26;17:00;Brussels Airlines;120;57;63;272.00
+34;2;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Bruxelles (BRU);Belgio;2025-05-26;18:00;Brussels Airlines;120;58;62;251.00
+34;3;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Bruxelles (BRU);Belgio;2025-05-26;22:00;Brussels Airlines;120;64;56;264.00
+35;1;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-05-27;18:00;SAS Scandinavian Airlines;120;68;52;297.00
+35;2;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-05-27;19:00;SAS Scandinavian Airlines;120;61;59;240.00
+35;3;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-05-27;23:00;SAS Scandinavian Airlines;120;57;63;213.00
+36;1;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Vienna (VIE);Austria;2025-05-28;19:00;Austrian Airlines;120;70;50;247.00
+36;2;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Vienna (VIE);Austria;2025-05-28;20:00;Austrian Airlines;120;74;46;235.00
+36;3;Aeroporto di Madrid-Barajas (MAD);Spagna;Aeroporto di Vienna (VIE);Austria;2025-05-28;00:00;Austrian Airlines;120;76;44;279.00
+37;1;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-05-29;11:15;British Airways;120;67;53;300.00
+37;2;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-05-29;15:15;British Airways;120;58;62;275.00
+37;3;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-05-29;19:15;British Airways;120;61;59;218.00
+38;1;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-05-30;12:15;British Airways;120;61;59;266.00
+38;2;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-05-30;13:15;British Airways;120;54;66;292.00
+38;3;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-05-30;17:15;British Airways;120;60;60;258.00
+39;1;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-05-31;13:15;British Airways;120;51;69;276.00
+39;2;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-05-31;14:15;British Airways;120;70;50;251.00
+39;3;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-05-31;18:15;British Airways;120;64;56;279.00
+40;1;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-06-01;14:15;British Airways;120;57;63;217.00
+40;2;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-06-01;15:15;British Airways;120;63;57;263.00
+40;3;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-06-01;19:15;British Airways;120;61;59;264.00
+41;1;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-06-02;15:15;KLM;120;64;56;277.00
+41;2;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-06-02;16:15;KLM;120;57;63;270.00
+41;3;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-06-02;20:15;KLM;120;58;62;219.00
+42;1;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Zurigo (ZRH);Svizzera;2025-06-03;16:15;Swiss International Air Lines;120;58;62;252.00
+42;2;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Zurigo (ZRH);Svizzera;2025-06-03;17:15;Swiss International Air Lines;120;57;63;269.00
+42;3;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Zurigo (ZRH);Svizzera;2025-06-03;21:15;Swiss International Air Lines;120;62;58;239.00
+43;1;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Bruxelles (BRU);Belgio;2025-06-04;17:15;Brussels Airlines;120;58;62;204.00
+43;2;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Bruxelles (BRU);Belgio;2025-06-04;18:15;Brussels Airlines;120;61;59;295.00
+43;3;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Bruxelles (BRU);Belgio;2025-06-04;22:15;Brussels Airlines;120;69;51;261.00
+44;1;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-06-05;18:15;SAS Scandinavian Airlines;120;62;58;224.00
+44;2;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-06-05;19:15;SAS Scandinavian Airlines;120;61;59;295.00
+44;3;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-06-05;23:15;SAS Scandinavian Airlines;120;59;61;208.00
+45;1;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Vienna (VIE);Austria;2025-06-06;19:15;Austrian Airlines;120;53;67;222.00
+45;2;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Vienna (VIE);Austria;2025-06-06;20:15;Austrian Airlines;120;63;57;300.00
+45;3;Aeroporto di Londra-Heathrow (LHR);Regno Unito;Aeroporto di Vienna (VIE);Austria;2025-06-06;00:15;Austrian Airlines;120;63;57;216.00
+46;1;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-06-07;11:15;KLM;120;52;68;252.00
+46;2;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-06-07;15:15;KLM;120;48;72;235.00
+46;3;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-06-07;19:15;KLM;120;59;61;216.00
+47;1;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-06-08;12:15;KLM;120;58;62;243.00
+47;2;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-06-08;16:15;KLM;120;63;57;259.00
+47;3;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-06-08;20:15;KLM;120;58;62;247.00
+48;1;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-06-09;13:15;KLM;120;55;65;297.00
+48;2;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-06-09;17:15;KLM;120;66;54;283.00
+48;3;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-06-09;21:15;KLM;120;61;59;288.00
+49;1;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-06-10;14:15;KLM;120;76;44;258.00
+49;2;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-06-10;18:15;KLM;120;58;62;200.00
+49;3;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-06-10;22:15;KLM;120;54;66;285.00
+50;1;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-06-11;15:15;KLM;120;68;52;255.00
+50;2;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-06-11;19:15;KLM;120;67;53;224.00
+50;3;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-06-11;23:15;KLM;120;62;58;220.00
+51;1;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Zurigo (ZRH);Svizzera;2025-06-12;16:15;KLM;120;62;58;300.00
+51;2;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Zurigo (ZRH);Svizzera;2025-06-12;20:15;KLM;120;69;51;284.00
+51;3;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Zurigo (ZRH);Svizzera;2025-06-12;00:15;KLM;120;63;57;232.00
+52;1;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Bruxelles (BRU);Belgio;2025-06-13;17:15;KLM;120;62;58;234.00
+52;2;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Bruxelles (BRU);Belgio;2025-06-13;21:15;KLM;120;53;67;209.00
+52;3;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Bruxelles (BRU);Belgio;2025-06-13;01:15;KLM;120;54;66;245.00
+53;1;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-06-14;18:15;KLM;120;55;65;243.00
+53;2;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-06-14;22:15;KLM;120;65;55;278.00
+53;3;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-06-15;02:15;KLM;120;45;75;264.00
+54;1;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Vienna (VIE);Austria;2025-06-16;19:15;KLM;120;49;71;209.00
+54;2;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Vienna (VIE);Austria;2025-06-16;23:15;KLM;120;52;68;258.00
+54;3;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;Aeroporto di Vienna (VIE);Austria;2025-06-17;03:15;KLM;120;49;71;288.00
+55;1;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-06-18;11:15;SAS Scandinavian Airlines;120;55;65;273.00
+55;2;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-06-18;15:15;SAS Scandinavian Airlines;120;58;62;281.00
+55;3;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-06-18;19:15;SAS Scandinavian Airlines;120;50;70;256.00
+56;1;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-06-19;12:15;SAS Scandinavian Airlines;120;62;58;224.00
+56;2;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-06-19;16:15;SAS Scandinavian Airlines;120;64;56;270.00
+56;3;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-06-19;20:15;SAS Scandinavian Airlines;120;64;56;246.00
+57;1;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-06-20;13:15;SAS Scandinavian Airlines;120;62;58;254.00
+57;2;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-06-20;17:15;SAS Scandinavian Airlines;120;68;52;212.00
+57;3;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-06-20;21:15;SAS Scandinavian Airlines;120;57;63;280.00
+58;1;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-06-21;14:15;SAS Scandinavian Airlines;120;46;74;268.00
+58;2;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-06-21;18:15;SAS Scandinavian Airlines;120;49;71;252.00
+58;3;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-06-21;22:15;SAS Scandinavian Airlines;120;58;62;249.00
+59;1;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-06-22;15:15;SAS Scandinavian Airlines;120;58;62;272.00
+59;2;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-06-22;19:15;SAS Scandinavian Airlines;120;50;70;275.00
+59;3;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-06-22;23:15;SAS Scandinavian Airlines;120;70;50;204.00
+60;1;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-06-23;16:15;SAS Scandinavian Airlines;120;61;59;274.00
+60;2;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-06-23;20:15;SAS Scandinavian Airlines;120;69;51;262.00
+60;3;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-06-23;00:15;SAS Scandinavian Airlines;120;68;52;279.00
+61;1;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Zurigo (ZRH);Svizzera;2025-06-24;17:15;SAS Scandinavian Airlines;120;57;63;214.00
+61;2;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Zurigo (ZRH);Svizzera;2025-06-24;21:15;SAS Scandinavian Airlines;120;68;52;212.00
+61;3;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Zurigo (ZRH);Svizzera;2025-06-24;01:15;SAS Scandinavian Airlines;120;53;67;258.00
+62;1;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Bruxelles (BRU);Belgio;2025-06-25;18:15;SAS Scandinavian Airlines;120;56;64;259.00
+62;2;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Bruxelles (BRU);Belgio;2025-06-25;22:15;SAS Scandinavian Airlines;120;65;55;249.00
+62;3;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Bruxelles (BRU);Belgio;2025-06-25;02:15;SAS Scandinavian Airlines;120;61;59;254.00
+63;1;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Vienna (VIE);Austria;2025-06-26;19:15;SAS Scandinavian Airlines;120;64;56;264.00
+63;2;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Vienna (VIE);Austria;2025-06-26;23:15;SAS Scandinavian Airlines;120;61;59;234.00
+63;3;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;Aeroporto di Vienna (VIE);Austria;2025-06-27;03:15;SAS Scandinavian Airlines;120;56;64;201.00
+64;1;Aeroporto di Vienna (VIE);Austria;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-06-28;11:15;Austrian Airlines;120;61;59;204.00
+64;2;Aeroporto di Vienna (VIE);Austria;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-06-28;15:15;Austrian Airlines;120;60;60;262.00
+64;3;Aeroporto di Vienna (VIE);Austria;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-06-28;19:15;Austrian Airlines;120;62;58;294.00
+65;1;Aeroporto di Vienna (VIE);Austria;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-06-29;12:15;Austrian Airlines;120;63;57;264.00
+65;2;Aeroporto di Vienna (VIE);Austria;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-06-29;16:15;Austrian Airlines;120;54;66;211.00
+65;3;Aeroporto di Vienna (VIE);Austria;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-06-29;20:15;Austrian Airlines;120;57;63;226.00
+66;1;Aeroporto di Vienna (VIE);Austria;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-06-30;13:15;Austrian Airlines;120;67;53;291.00
+66;2;Aeroporto di Vienna (VIE);Austria;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-06-30;17:15;Austrian Airlines;120;63;57;226.00
+66;3;Aeroporto di Vienna (VIE);Austria;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-06-30;21:15;Austrian Airlines;120;66;54;240.00
+67;1;Aeroporto di Vienna (VIE);Austria;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-07-01;14:15;Austrian Airlines;120;56;64;236.00
+67;2;Aeroporto di Vienna (VIE);Austria;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-07-01;18:15;Austrian Airlines;120;56;64;261.00
+67;3;Aeroporto di Vienna (VIE);Austria;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-07-01;22:15;Austrian Airlines;120;62;58;291.00
+68;1;Aeroporto di Vienna (VIE);Austria;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-07-02;15:15;Austrian Airlines;120;62;58;205.00
+68;2;Aeroporto di Vienna (VIE);Austria;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-07-02;19:15;Austrian Airlines;120;58;62;275.00
+68;3;Aeroporto di Vienna (VIE);Austria;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-07-02;23:15;Austrian Airlines;120;57;63;220.00
+69;1;Aeroporto di Vienna (VIE);Austria;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-07-03;16:15;Austrian Airlines;120;59;61;271.00
+69;2;Aeroporto di Vienna (VIE);Austria;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-07-03;20:15;Austrian Airlines;120;60;60;219.00
+69;3;Aeroporto di Vienna (VIE);Austria;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-07-03;00:15;Austrian Airlines;120;62;58;281.00
+70;1;Aeroporto di Vienna (VIE);Austria;Aeroporto di Zurigo (ZRH);Svizzera;2025-07-04;17:15;Austrian Airlines;120;53;67;247.00
+70;2;Aeroporto di Vienna (VIE);Austria;Aeroporto di Zurigo (ZRH);Svizzera;2025-07-04;21:15;Austrian Airlines;120;58;62;293.00
+70;3;Aeroporto di Vienna (VIE);Austria;Aeroporto di Zurigo (ZRH);Svizzera;2025-07-04;01:15;Austrian Airlines;120;62;58;295.00
+71;1;Aeroporto di Vienna (VIE);Austria;Aeroporto di Bruxelles (BRU);Belgio;2025-07-05;18:15;Austrian Airlines;120;64;56;270.00
+71;2;Aeroporto di Vienna (VIE);Austria;Aeroporto di Bruxelles (BRU);Belgio;2025-07-05;22:15;Austrian Airlines;120;56;64;232.00
+71;3;Aeroporto di Vienna (VIE);Austria;Aeroporto di Bruxelles (BRU);Belgio;2025-07-05;02:15;Austrian Airlines;120;48;72;202.00
+72;1;Aeroporto di Vienna (VIE);Austria;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-07-06;19:15;Austrian Airlines;120;58;62;267.00
+72;2;Aeroporto di Vienna (VIE);Austria;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-07-06;23:15;Austrian Airlines;120;57;63;275.00
+72;3;Aeroporto di Vienna (VIE);Austria;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-07-07;03:15;Austrian Airlines;120;59;61;213.00
+73;1;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-07-08;11:15;Swiss International Air Lines;120;58;62;257.00
+73;2;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-07-08;15:15;Swiss International Air Lines;120;56;64;202.00
+73;3;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-07-08;19:15;Swiss International Air Lines;120;55;65;288.00
+74;1;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-07-09;12:15;Swiss International Air Lines;120;56;64;267.00
+74;2;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-07-09;16:15;Swiss International Air Lines;120;62;58;220.00
+74;3;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-07-09;20:15;Swiss International Air Lines;120;66;54;202.00
+75;1;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-07-10;13:15;Swiss International Air Lines;120;56;64;270.00
+75;2;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-07-10;17:15;Swiss International Air Lines;120;63;57;279.00
+75;3;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-07-10;21:15;Swiss International Air Lines;120;60;60;218.00
+76;1;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-07-11;14:15;Swiss International Air Lines;120;64;56;253.00
+76;2;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-07-11;18:15;Swiss International Air Lines;120;63;57;274.00
+76;3;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-07-11;22:15;Swiss International Air Lines;120;57;63;235.00
+77;1;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-07-12;15:15;Swiss International Air Lines;120;66;54;231.00
+77;2;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-07-12;19:15;Swiss International Air Lines;120;72;48;276.00
+77;3;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-07-12;23:15;Swiss International Air Lines;120;61;59;267.00
+78;1;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-07-13;16:15;Swiss International Air Lines;120;56;64;215.00
+78;2;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-07-13;20:15;Swiss International Air Lines;120;64;56;212.00
+78;3;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-07-13;00:15;Swiss International Air Lines;120;68;52;224.00
+79;1;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Vienna (VIE);Austria;2025-07-14;17:15;Swiss International Air Lines;120;61;59;286.00
+79;2;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Vienna (VIE);Austria;2025-07-14;21:15;Swiss International Air Lines;120;50;70;213.00
+79;3;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Vienna (VIE);Austria;2025-07-14;01:15;Swiss International Air Lines;120;59;61;256.00
+80;1;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Bruxelles (BRU);Belgio;2025-07-15;18:15;Swiss International Air Lines;120;66;54;244.00
+80;2;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Bruxelles (BRU);Belgio;2025-07-15;22:15;Swiss International Air Lines;120;51;69;252.00
+80;3;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Bruxelles (BRU);Belgio;2025-07-15;02:15;Swiss International Air Lines;120;65;55;261.00
+81;1;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-07-16;19:15;Swiss International Air Lines;120;62;58;289.00
+81;2;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-07-16;23:15;Swiss International Air Lines;120;57;63;244.00
+81;3;Aeroporto di Zurigo (ZRH);Svizzera;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-07-17;03:15;Swiss International Air Lines;120;56;64;246.00
+82;1;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-07-18;11:15;Brussels Airlines;120;51;69;201.00
+82;2;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-07-18;15:15;Brussels Airlines;120;60;60;232.00
+82;3;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Roma-Fiumicino (FCO);Italia;2025-07-18;19:15;Brussels Airlines;120;55;65;290.00
+83;1;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-07-19;12:15;Brussels Airlines;120;63;57;205.00
+83;2;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-07-19;16:15;Brussels Airlines;120;55;65;239.00
+83;3;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Francoforte sul Meno (FRA);Germania;2025-07-19;20:15;Brussels Airlines;120;62;58;212.00
+84;1;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-07-20;13:15;Brussels Airlines;120;60;60;227.00
+84;2;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-07-20;17:15;Brussels Airlines;120;59;61;280.00
+84;3;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Parigi-Charles de Gaulle (CDG);Francia;2025-07-20;21:15;Brussels Airlines;120;62;58;243.00
+85;1;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-07-21;14:15;Brussels Airlines;120;56;64;265.00
+85;2;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-07-21;18:15;Brussels Airlines;120;63;57;255.00
+85;3;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Madrid-Barajas (MAD);Spagna;2025-07-21;22:15;Brussels Airlines;120;53;67;286.00
+86;1;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-07-22;15:15;Brussels Airlines;120;53;67;216.00
+86;2;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-07-22;19:15;Brussels Airlines;120;65;55;225.00
+86;3;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Londra-Heathrow (LHR);Regno Unito;2025-07-22;23:15;Brussels Airlines;120;57;63;284.00
+87;1;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-07-23;16:15;Brussels Airlines;120;64;56;252.00
+87;2;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-07-23;20:15;Brussels Airlines;120;61;59;299.00
+87;3;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Amsterdam-Schiphol (AMS);Paesi Bassi;2025-07-23;00:15;Brussels Airlines;120;65;55;275.00
+88;1;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Vienna (VIE);Austria;2025-07-24;17:15;Brussels Airlines;120;67;53;231.00
+88;2;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Vienna (VIE);Austria;2025-07-24;21:15;Brussels Airlines;120;58;62;225.00
+88;3;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Vienna (VIE);Austria;2025-07-24;01:15;Brussels Airlines;120;55;65;239.00
+89;1;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Zurigo (ZRH);Svizzera;2025-07-25;18:15;Brussels Airlines;120;49;71;255.00
+89;2;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Zurigo (ZRH);Svizzera;2025-07-25;22:15;Brussels Airlines;120;61;59;257.00
+89;3;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Zurigo (ZRH);Svizzera;2025-07-25;02:15;Brussels Airlines;120;65;55;276.00
+90;1;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-07-26;19:15;Brussels Airlines;120;59;61;241.00
+90;2;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-07-26;23:15;Brussels Airlines;120;70;50;269.00
+90;3;Aeroporto di Bruxelles (BRU);Belgio;Aeroporto di Stoccolma-Arlanda (ARN);Svezia;2025-07-27;03:15;Brussels Airlines;120;64;56;219.00

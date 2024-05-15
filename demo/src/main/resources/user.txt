@@ -1,0 +1,8 @@
+Username; Password; Name; Surname; Email
+test; test; test; test; test; 
+martaroech; GelsominoCalabrese03; Luca; Martari; luca.martari@icloud.com
+mattiathegoat; C@lcetto311; Mattia; Zapparoli; mattia@mail.com
+debora02; debora02.; Debora; Pavoni; pavonidebora02@gmail.com
+billy; Billy&Iachi99; Alby; Alby; billy.mah.bo@gmail.com
+lulu; Acul2002!; Luca; Marastoni; marastoni311@gmail.com; 
+yacine; Pwd#171413; Yacine; Niang; yacineniang995@gmail.com; 
