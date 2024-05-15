@@ -1,1 +1,2 @@
+<<<<<<< HEAD
 !!! CHANGE FILE PATHS !!!
