@@ -22,10 +22,10 @@ public class EmailSender {
     public User getUser() {
         return customer;
     }
-
+    
     public static void sendEmail(String recipientEmail, Seats seat, User customer) {
         final String senderEmail = "JavaAirlines@outlook.com"; // email del mittente
-        final String password = "VQ6cw2FV9wmMeAJ"; // password
+        final String password = "VQ6cw2FV9wmMeAJ"; // password outlook
 
         Properties props = new Properties();
         props.put("mail.smtp.host", "smtp-mail.outlook.com");
